@@ -13,7 +13,6 @@
   
 3. Crash Course Arduino and Microcontroller Development
 - Issued by: Udemy   
-- Issued On: July 29, 2025  
-- Course Duration: 111.5 total hours  
+- Issued On: July 29, 2025   
 - Certificate ID:UC-72132e10-8975-44b5-b5d1-8d826b61cc88  
 - Credential URL: https://ude.my/UC-72132e10-8975-44b5-b5d1-8d826b61cc88
