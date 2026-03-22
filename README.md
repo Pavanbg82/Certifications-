@@ -11,8 +11,4 @@
 - Credential ID: 442bL6z8ollu775615  
 - Credential URL: https://www.guvi.in/share-certificate/442bL6z8o11u775615
   
-3. Crash Course Arduino and Microcontroller Development
-- Issued by: Udemy   
-- Issued On: July 29, 2025   
-- Certificate ID:UC-72132e10-8975-44b5-b5d1-8d826b61cc88  
-- Credential URL: https://ude.my/UC-72132e10-8975-44b5-b5d1-8d826b61cc88
+ 
