@@ -12,3 +12,10 @@
 - Credential URL: https://www.guvi.in/share-certificate/442bL6z8o11u775615
   
  
+3. ISWDP Level 1 – Semiconductor Device Technology
+
+- Issued by: Samsung Semiconductor India Research (SSIR) in collaboration with IISc & Synopsys SARA
+- Program: India Semiconductor Workforce Development Program (ISWDP)
+- Issued On: February 14, 2026
+- Score: 98% (90.82 percentile)
+- Description: Basics of Semiconductor Device Technology, TCAD, device creation, simulation and analysis.
